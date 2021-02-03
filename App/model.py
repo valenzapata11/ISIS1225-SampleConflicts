@@ -73,5 +73,5 @@ def createTagList():
     return taglist
 
 def addBookTags():
-    # TO-DO: Modificación del Est-1 y Est-2 en el Lab 2
+    # TO-DO: Modificación de Est-1 y Est-2 en el Lab 2
     pass
